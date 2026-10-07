@@ -1,6 +1,6 @@
 # Awesome In-Parameter Memory 
 
-![](https://awesome.re/badge.svg?logo=stylelint) <a href='https://www.researchgate.net/profile/Haoyu-Huang-8/publication/415302231_Towards_In-Parameter_Memory_Augmentation_for_Large_Language_Models/links/6ac5230d799bef11c4b09e37/Towards-In-Parameter-Memory-Augmentation-for-Large-Language-Models.pdf'><img src='https://img.shields.io/badge/Link-Paper-A42C25?style=flat&logoColor=A42C25'></a> ![](https://img.shields.io/badge/PRs-Welcome-blue)
+![](https://awesome.re/badge.svg?logo=stylelint) <a href='https://arxiv.org/pdf/2610.08630'><img src='https://img.shields.io/badge/Arxiv-Paper-A42C25?style=flat&logoColor=A42C25'></a> ![](https://img.shields.io/badge/PRs-Welcome-blue)
 
 This repository accompanies our survey paper:
 
