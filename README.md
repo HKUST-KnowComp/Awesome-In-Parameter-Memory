@@ -213,7 +213,12 @@ The memory object $\phi$ is composed at two or more sites (e.g., both attention 
 If you find this repository or our survey helpful, please consider citing:
 
 ```
-
+@article{huang2026towards,
+  title={Towards In-Parameter Memory Augmentation for Large Language Models},
+  author={Huang, Haoyu and Xie, Zhongwei and Bai, Jiaxin and Gao, Yisen and Tsang, Hong Ting and Song, Wuganjing and Jing, Huihao and Li, Yufei and Song, Yangqiu},
+  journal={arXiv preprint arXiv:2610.08630},
+  year={2026}
+}
 ```
 
 ## Acknowledgments
